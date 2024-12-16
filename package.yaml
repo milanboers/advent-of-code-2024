@@ -25,6 +25,8 @@ dependencies:
 - containers
 - megaparsec
 - matrix
+- search-algorithms
+- dijkstra-simple
 
 ghc-options:
 - -Wall
