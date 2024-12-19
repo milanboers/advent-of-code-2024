@@ -27,6 +27,7 @@ dependencies:
 - matrix
 - search-algorithms
 - dijkstra-simple
+- uglymemo
 
 ghc-options:
 - -Wall
