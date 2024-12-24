@@ -35,6 +35,7 @@ library
     , dijkstra-simple
     , matrix
     , megaparsec
+    , random
     , search-algorithms
     , split
     , uglymemo
@@ -54,6 +55,7 @@ executable aoc2024-exe
     , dijkstra-simple
     , matrix
     , megaparsec
+    , random
     , search-algorithms
     , split
     , uglymemo

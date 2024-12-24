@@ -28,6 +28,7 @@ dependencies:
 - search-algorithms
 - dijkstra-simple
 - uglymemo
+- random
 
 ghc-options:
 - -Wall
